@@ -8,7 +8,7 @@
 		"url": "https://Maomk MD.com"
 	},
   "links": {
-    "self": "https://f739-191-108-11-54.ngrok-free.appatlassian-connect.json"
+    "self": "https://f739-191-108-11-54.ngrok-free.app/atlassian-connect.json"
   },
 	"authentication": {
 		"type": "jwt"
