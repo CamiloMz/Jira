@@ -1,16 +1,24 @@
 {
 	"name": "Hello World",
-	"description": "Atlassian Connect app",
+	"description": "A connect app that does something",
 	"key": "MyTestApp",
-	"baseUrl": "http://3491-191-108-11-54.ngrok-free.app",
+	"baseUrl": "https://f739-191-108-11-54.ngrok-free.app",
 	"vendor": {
-		"name": "Atlassian",
-		"url": "https://atlassian.com"
+		"name": "Maomk MD",
+		"url": "https://Maomk MD.com"
 	},
+  "links": {
+    "self": "https://f739-191-108-11-54.ngrok-free.appatlassian-connect.json"
+  },
 	"authentication": {
-		"type": "none"
+		"type": "jwt"
 	},
-	"apiVersion": 1,
+	"apiVersion": 1,  
+  "lifecycle": {
+    "installed": "/installed",
+    "uninstalled": "/uninstalled"
+  },
+  "enableLicensing": true,
 	"modules": {
 		"generalPages": [{
 			"url": "/helloworld.html",
