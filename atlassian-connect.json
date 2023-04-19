@@ -4,8 +4,8 @@
 	"key": "MyTestApp",
 	"baseUrl": "https://f739-191-108-11-54.ngrok-free.app",
 	"vendor": {
-		"name": "Maomk MD",
-		"url": "https://Maomk MD.com"
+		"name": "MaomkMD",
+		"url": "https://MaomkMD.com"
 	},
   "links": {
     "self": "https://f739-191-108-11-54.ngrok-free.app/atlassian-connect.json"
