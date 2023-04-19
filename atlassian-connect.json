@@ -1,11 +1,11 @@
 {
 	"name": "Hello World",
 	"description": "Atlassian Connect app",
-	"key": "com.example.myapp",
+	"key": "MyTestApp",
 	"baseUrl": "http://3491-191-108-11-54.ngrok-free.app",
 	"vendor": {
-		"name": "Example, Inc.",
-		"url": "http://example.com"
+		"name": "Atlassian",
+		"url": "https://atlassian.com"
 	},
 	"authentication": {
 		"type": "none"
